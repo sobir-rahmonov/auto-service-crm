@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual muhit
+backend/env/
+backend/venv/
+
+# Maxfiy va lokal fayllar
+.env
+backend/.env
+backend/db.sqlite3
+
+# Frontend (keyinroq)
+frontend/node_modules/
+frontend/dist/
+
+# Muharrir
+.vscode/
+
+.idea/
+Thumbs.db
+.DS_Store
