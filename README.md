@@ -128,3 +128,10 @@ autoservice-manager/
 - Barcha jarayonlar uchun to'liq audit jurnali
 - Hisob-fakturani PDF qilib yuklab olish
 - Xabarnomalar (buyurtma holati o'zgarganda)
+
+
+## 👤 Muallif
+
+**Ismingiz Familiyangiz**
+GitHub: [@sobir-rahmonov](https://github.com/sobir-rahmonov)
+Telegram: @Sob1r_Rahmonov
