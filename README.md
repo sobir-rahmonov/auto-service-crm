@@ -134,4 +134,4 @@ autoservice-manager/
 
 **Ismingiz Familiyangiz**
 GitHub: [@sobir-rahmonov](https://github.com/sobir-rahmonov)
-Telegram: @Sob1r_Rahmonov
+Telegram: (https://t.me/Sob1r_Rahmonov)
